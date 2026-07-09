@@ -71,11 +71,10 @@ fun_fact: "I turn coffee into code ☕ → 💻"</h3>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=walwadkarnupur-design&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70" height="70" alt="YOLO" title="YOLO">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70" height="70" alt="Quickdraw" title="Quickdraw">
 
 ---
 
