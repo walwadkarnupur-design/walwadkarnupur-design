@@ -8,7 +8,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=walwadkarnupur-design&label=Profile%20Views&color=00F7FF&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/walwadkarnupur-design?label=Followers&style=for-the-badge&color=0EE6B7)
+
 
 </div>
 
