@@ -66,7 +66,7 @@ fun_fact: "I turn coffee into code ☕ → 💻"</h3>
 
 ---
 
-### 👾 Pac-Man Contribution Graph
+### 👾 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walwadkarnupur-design/walwadkarnupur-design/output/pacman-contribution-graph-dark.svg">
